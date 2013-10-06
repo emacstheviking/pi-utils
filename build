@@ -1,0 +1,2 @@
+gcc -o piconverter piconverter.c
+gcc -o pidigit pidigit.c
