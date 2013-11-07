@@ -4,7 +4,7 @@ I have recently become more interested in PI and its nature and to
 that end I decided that I needed some utilities to get me started on
 my own personal investigations.
 
-Firstly a big thanks to bigprimes.net who also happent o have for
+Firstly a big thanks to bigprimes.net who also happen to have for
 download a file containing the ASCII representation of the first one
 million digits of PI which I have included for completeness.
 
